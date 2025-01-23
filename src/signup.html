@@ -2,6 +2,3 @@ function signupUser() {
     console.log("Signup form submitted successfully.");
 }
 // Fixed signup form error handling
-fixed// 
-<iframe src="" frameborder="0"></iframe>
-fixed//
